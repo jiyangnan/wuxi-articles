@@ -93,12 +93,7 @@ MEMORY.md 有 **1,057,975 行**。100 万行。
 
 - **SKILL.md** - 完整文档，解释三层主动性架构
 - **heartbeat-helper.js** - 工具库，其他 Agent 可以直接调用
-- **GitHub 仓库** - 公开代码，任何人都可以安装
-
-安装命令：
-```bash
-openclaw skill install https://github.com/jiyangnan/proactive-agent-skill.git
-```
+- **开源代码** - 公开代码，任何人都可以安装
 
 安装后，框架会自动：监控任务执行 → 检测异常指标 → 格式化汇报信息 → 记录到日志。
 
@@ -159,9 +154,11 @@ openclaw skill install https://github.com/jiyangnan/proactive-agent-skill.git
 
 ---
 
-**GitHub 仓库**: https://github.com/jiyangnan/proactive-agent-skill
+## 想让你的 AI 变主动吗？
 
-让你的 AI 从「等命令」变成「主动发现」。
+如果你也想让 OpenClaw 拥有同样的「主动性」，在评论区留言「主动」，我会把封装好的 Skills 发给你。
+
+让 AI 从「等命令」变成「主动发现」。
 
 你会发现，信任就是这样建立的。
 
